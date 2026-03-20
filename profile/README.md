@@ -52,7 +52,7 @@ NAVIG is built and maintained by one person across product, engineering, design,
 If it saves you time or helps you run infrastructure with less friction, support keeps it moving. :contentReference[oaicite:5]{index=5}
 
 - [GitHub Sponsors](https://github.com/sponsors/miztizm)
-- [Buy Me a Coffee](https://buymeacoffee.com/mzitizm)
+- [Buy Me a Coffee](https://buymeacoffee.com/miztizm)
 
 ---
 
