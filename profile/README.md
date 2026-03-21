@@ -46,11 +46,11 @@ That became NAVIG.
 
 ## What NAVIG is
 
-NAVIG is a **terminal-first infrastructure CLI and runtime** for people who want to operate systems directly, without burying everything under dashboards, tabs, and layers of unnecessary abstraction.
+Its a **terminal-first infrastructure CLI and runtime** for people who want to operate systems directly, without burying everything under dashboards, tabs, and layers of unnecessary abstraction.
 
 It gives you one place to work with remote hosts, SSH and SFTP flows, databases, containers, tunnels, commands, and repeatable operational routines. The goal is not to replace the terminal. The goal is to make the terminal usable at the level real operations actually demand: with memory, structure, coordination, and AI assistance only where it adds real value.
 
-NAVIG is built for operators who want to stay close to the machine. People who want to see what is happening, understand what they are doing, and move across infrastructure, services, files, and workflows without scattering their attention across ten different tools.
+It is built for operators who want to stay close to the machine. People who want to see what is happening, understand what they are doing, and move across infrastructure, services, files, and workflows without scattering their attention across ten different tools.
 
 It is not a platform. It is not a committee-designed control plane. It is not a bloated SaaS layer pretending to simplify work by hiding the very details that matter most.
 
@@ -62,7 +62,7 @@ It is a **tool built by one operator, for operators and builders**. For people w
 
 NAVIG is built around **clarity of control**.
 
-A lot of tools optimize for features, layers, integrations, and the appearance of convenience. NAVIG does not start there. It starts from a simpler question: when something matters, can you still see what is happening, understand why it is happening, and act on it directly? If the answer is no, the tool is already becoming part of the problem.
+A lot of tools optimize for features, layers, integrations, and the appearance of convenience. It does not start there. It starts from a simpler question: when something matters, can you still see what is happening, understand why it is happening, and act on it directly? If the answer is no, the tool is already becoming part of the problem.
 
 Infrastructure should stay inspectable. What the system is doing should not be hidden behind theater, vague states, or clever abstractions that collapse the moment something goes wrong. If a machine runs a command, opens a tunnel, touches a file, changes a service, or moves data, that should remain visible and understandable.
 
@@ -72,7 +72,7 @@ Remote operations should feel deliberate. Not improvised across random SSH sessi
 
 AI has a place in that system, but not as a substitute for judgment. In NAVIG, AI is there to assist the operator: to surface context, reduce friction, help coordinate moving parts, and handle backstage complexity. It is not there to turn infrastructure into a black box with a personality. The operator stays responsible. The operator stays in command.
 
-And underneath all of that is a simple belief: the terminal remains one of the best control surfaces ever made. Not because of nostalgia, but because it is direct, composable, observable, scriptable, and honest. NAVIG is built there on purpose — not to romanticize the terminal, but to extend it into something more structured, more aware, and more capable without losing what made it valuable in the first place.
+And underneath all of that is a simple belief: the terminal remains one of the best control surfaces ever made. Not because of nostalgia, but because it is direct, composable, observable, scriptable, and honest. It is built there on purpose — not to romanticize the terminal, but to extend it into something more structured, more aware, and more capable without losing what made it valuable in the first place.
 
 ---
 
@@ -82,13 +82,14 @@ NAVIG already operates across more than traditional infrastructure work.
 
 At its core, it handles the things you would expect from a serious operator system: multi-host SSH access, remote command execution, database operations, Docker and service control, web server tasks, encrypted credential handling, repeatable workflows, and AI-assisted operational support. But that is only the visible foundation.
 
-NAVIG is also growing into a broader operational layer — something closer to **LifeOps, SysOps, DevOps, FinanceOps, and ProjectOps** and many others, brought into one command surface. The point is not just to connect to servers. The point is to reduce fragmentation across the different systems a person actually has to run: machines, services, files, tasks, data, projects, alerts, routines, and decisions.
+It is also growing into a broader operational layer — something closer to **LifeOps, SysOps, DevOps, FinanceOps, and ProjectOps** and many others, brought into one command surface. The point is not just to connect to servers. The point is to reduce fragmentation across the different systems a person actually has to run: machines, services, files, tasks, data, projects, alerts, routines, and decisions.
 
 That means NAVIG is not limited to infrastructure control. It is being shaped as an environment where you can operate remote systems, coordinate technical workflows, keep track of project reality, interact with business and sales data, route critical information through the right channels, and gradually turn scattered operational overhead into something structured and actionable.
 
-In practice, NAVIG already lives at the intersection of infrastructure operations and personal command. It is meant to help run machines, but also to help run the surrounding reality: the work, the signals, the recurring actions, the context, and the moving parts that usually end up split between terminals, dashboards, messengers, notes, scripts, and memory.
+In practice, its already lives at the intersection of infrastructure operations and personal command. It is meant to help run machines, but also to help run the surrounding reality: the work, the signals, the recurring actions, the context, and the moving parts that usually end up split between terminals, dashboards, messengers, notes, scripts, and memory.
 
-So yes, NAVIG does infrastructure work. But it is already becoming something larger: a unified operational layer for the systems behind your servers, your projects, your business, and your day-to-day execution.
+So yes, it does infrastructure work. But it is already becoming something larger: a unified operational layer for the systems behind your servers, your projects, your business, and your day-to-day execution.
+
 ---
 
 ## The real goal
@@ -131,7 +132,7 @@ When in doubt, start with a Discussion.
 
 ## Support the project
 
-NAVIG is built without outside funding. That is part of why it can see further than most tools. No committees. No growth-team noise. Just real use, long nights, pressure, iteration, and the work it takes to build something serious in the open.
+This project is built without outside funding. That is part of why it can see further than most tools. No committees. No growth-team noise. Just real use, long nights, pressure, iteration, and the work it takes to build something serious in the open.
 
 If NAVIG saves you time, reduces operational drag, or feels like the kind of tool that should exist, support it in a way that genuinely helps it continue.
 
@@ -141,7 +142,7 @@ If NAVIG saves you time, reduces operational drag, or feels like the kind of too
 - 📢 Talk about NAVIG, share it, post about it, recommend it, and put it in front of people who would actually use it
 - ❤️ [Sponsor via GitHub](https://github.com/sponsors/miztizm) or [Buy Me a Coffee](https://buymeacoffee.com/miztizm)
 
-Advertising NAVIG is welcome. Spreading it is not separate from supporting it — it is part of building it. If you share NAVIG, write about it, recommend it, or bring the right people to it, you are not standing outside the project. You are part of the community helping shape it.
+Advertising is welcome. Spreading it is not separate from supporting it — it is part of building it. If you share NAVIG, write about it, recommend it, or bring the right people to it, you are not standing outside the project. You are part of the community helping shape it.
 
 Support is not charity. It is how independent tools survive long enough to become durable.
 
@@ -151,7 +152,7 @@ And yes, tokens help! Microsoft may drop sessions, but it never drops an invoice
 
 ## Policy
 
-NAVIG is released under the **Apache-2.0** license.
+Released under the **Apache-2.0** license.
 
 Security issues should be reported privately through the project’s security process, not posted publicly as issues.
 
